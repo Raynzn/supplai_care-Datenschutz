@@ -54,7 +54,7 @@ Sie können diese Daten jederzeit durch Löschen der App entfernen.
 
 ## KI-Funktionen
 
-Die App nutzt KI (Google Vertex AI) für Gesundheitsempfehlungen.
+Die App nutzt KI für Gesundheitsempfehlungen.
 - Anfragen werden über sichere Server verarbeitet
 - Ihre Daten werden vor der KI-Verarbeitung anonymisiert
 - KEINE direkten Verbindungen von Ihrem Gerät zu Google
